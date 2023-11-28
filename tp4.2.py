@@ -1,10 +1,10 @@
 #Ejercicio 1
-#lista= []
-#def numeros (numero1,numero2):
-#    for i in range (numero1,numero2+1):
-#        lista.append(i)
-#    return lista
-#print(numeros (1,20))
+lista= []
+def numeros (numero1,numero2):
+   for i in range (numero1,numero2+1):
+       lista.append(i)
+   return lista
+print(numeros (1,20))
 
 #Ejercicio 2 
 
